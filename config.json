@@ -9,7 +9,7 @@
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
     "BotKey": "a243d5d9b0d811b81d63e6cf",
-    "OpenAIKey": "pakek apikey lu dek",
+    "OpenAIKey": "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",
     "audio_di_bagian_menu": "./menu.mp3",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": false, 
